@@ -11,6 +11,8 @@ A field to display all form errors
 composer require dillingham/nova-errors
 ```
 
+Add the `Errors` field to your resource
+
 ```php
 use NovaErrorField\Errors;
 ```
@@ -21,5 +23,7 @@ return [
 ]
 ```
 
-->asModal()
-->asHeading('The Form has errors')
+And when validation errors occur:
+
+- it will scroll to the top of the page
+- it will display a list of validation errors
