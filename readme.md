@@ -24,8 +24,11 @@ use NovaErrorField\Errors;
 public function fields(Request $request)
 {
     return [
+    
         Errors::make(),
+        
         ID::make()->sortable(),
+        
         //
     ];
 }
