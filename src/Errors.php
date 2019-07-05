@@ -11,4 +11,13 @@ class Errors extends Field
     public $showOnIndex = false;
 
     public $showOnDetail = false;
+
+    public function __construct()
+    {
+        parent::__construct('Errors', 'errors', null);
+
+        $this->name = 'Errors';
+        $this->attribute = 'errors';
+        $this->resolveCallback = null;
+    }
 }
