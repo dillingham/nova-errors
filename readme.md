@@ -21,9 +21,14 @@ use NovaErrorField\Errors;
 ```
 
 ```php
-return [
-    Errors::make(),
-]
+public function fields(Request $request)
+{
+    return [
+        Errors::make(),
+        ID::make()->sortable(),
+        //
+    ];
+}
 ```
 
 And when validation errors occur:
