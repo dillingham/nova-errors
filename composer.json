@@ -1,6 +1,6 @@
 {
-    "name": "dillingham/nova-errors-field",
-    "description": "A Laravel Nova field.",
+    "name": "dillingham/nova-errors",
+    "description": "Display errors at the top of your forms",
     "keywords": [
         "laravel",
         "nova"
