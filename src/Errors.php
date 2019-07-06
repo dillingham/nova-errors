@@ -14,10 +14,14 @@ class Errors extends Field
 
     public function __construct()
     {
-        parent::__construct('Errors', 'errors', null);
+        parent::__construct('Errors', 'nova_errors', null);
 
         $this->name = 'Errors';
-        $this->attribute = 'errors';
+        $this->attribute = 'nova_errors';
         $this->resolveCallback = null;
+
+        $this->fillUsing(function () {
+            return false;
+        });
     }
 }
