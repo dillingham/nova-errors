@@ -1,7 +1,7 @@
 # Nova Errors
 
 [![Latest Version on Github](https://img.shields.io/github/release/dillingham/nova-errors.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-errors)
-[![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-errors.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-errors)
+[![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-errors.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-errors) [![Twitter Follow](https://img.shields.io/twitter/follow/dillinghammm?color=%231da1f1&label=Twitter&logo=%231da1f1&logoColor=%231da1f1&style=flat-square)](https://twitter.com/dillinghammm)
 
 Display all form errors in a modal & scroll to the top of the page.
 
