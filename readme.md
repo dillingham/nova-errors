@@ -1,7 +1,7 @@
 # Nova Errors
 
 [![Latest Version on Github](https://img.shields.io/github/release/dillingham/nova-errors.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-errors)
-[![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-errors.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-errors) [![Twitter Follow](https://img.shields.io/twitter/follow/dillinghammm?color=%231da1f1&label=Twitter&logo=%231da1f1&logoColor=%231da1f1&style=flat-square)](https://twitter.com/dillinghammm)
+[![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-errors.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-errors) [![Twitter Follow](https://img.shields.io/twitter/follow/dillinghammm?color=%231da1f1&label=Twitter&logo=%231da1f1&logoColor=%231da1f1&style=flat-square)](https://twitter.com/im_brian_d)
 
 Display all form errors in a modal & scroll to the top of the page.
 
@@ -38,3 +38,13 @@ And when validation errors occur:
 
 - it will scroll to the top of the page
 - it will display a list of validation errors
+
+---
+
+# Author
+
+Hi 👋, Im Brian Dillingham, creator of this Nova package [and others](https://novapackages.com/collaborators/dillingham)
+
+Hope you find it useful. Feel free to reach out with feedback.
+
+Follow me on twitter: [@im_brian_d](https://twitter.com/im_brian_d) 
